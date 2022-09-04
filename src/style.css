@@ -1,0 +1,67 @@
+* {
+  font-family: "Orelega One", cursive;
+  color: green;
+  margin: 0;
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 40px;
+  text-align: center;
+  color: #72147e;
+}
+
+h2 {
+  padding-top: 10px;
+  padding-bottom: 20px;
+  text-align: center;
+  color: #ff5200;
+}
+
+.azul {
+  text-align: left;
+}
+
+p {
+  text-align: center;
+  margin-top: 20px;
+}
+
+table {
+  width: 100%;
+}
+
+label {
+  display: block;
+}
+
+input {
+  display: block;
+  padding-top: 5px;
+}
+
+.header {
+  background-color: #eeeeee;
+  height: 150px;
+  border: 5px solid red;
+  padding-top: 20px;
+  margin-bottom: 30px;
+}
+
+.content-info {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.left {
+  width: 50%;
+  float: left;
+}
+
+.right {
+  margin-left: 50%;
+}
+
+.field {
+  margin-top: 10px;
+}
